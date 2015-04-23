@@ -1,6 +1,6 @@
-property pw : ""
+property pw : "[mau5]68"
 property clamshellwake_path : "/tmp/EasyTetherUSBEthernet.kext"
-property adb_path : "/opt/android/platform-tools/adb"
+property adb_path : "/Users/eddiebou68/Library/Android/sdk/platform-tools/adb"
 
 --kextload on launch
 on run
